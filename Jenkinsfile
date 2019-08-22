@@ -7,5 +7,10 @@ stage('Compile-Package'){
 //def mvnHome= tool name: 'maven', type: 'maven'
   bat 'mvn package'
 }
+  stage('test'){
+//def mvnHome= tool name: 'maven', type: 'maven'
+  bat 'mvn test'
+}
+
 
 }
