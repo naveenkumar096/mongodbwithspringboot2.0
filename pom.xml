@@ -6,7 +6,7 @@
 	<groupId>com.example.spring.boot</groupId>
 	<artifactId>sprign-boot-learing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>sprign-boot-learing</name>
 	<description>Learning Spring boot 2</description>
